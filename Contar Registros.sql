@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM [TRAINNING].[dbo].[RAW_produtosestoque]
